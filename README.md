@@ -28,7 +28,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Conversational-Chatbot-using-Langchain.git
+     git clone https://github.com/alimdsaif3/Conversational-Chatbot-using-Langchain-main.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
